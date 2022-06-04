@@ -1,4 +1,4 @@
-const apiKey = 'c2edd4ca01fc231f1c775fe9260c1dd0'
+const apiKey = ''
 
 countryCode = 'us'
 
